@@ -84,9 +84,9 @@ do
 		FadeSpeed = 0.2,
 
 		Folders = {
-			Directory = "uip100",
-			Configs = "uip100/Configs",
-			Assets = "uip100/Assets",
+			Directory = "Bronxvault",
+			Configs = "Bronxvault/Configs",
+			Assets = "Bronxvault/Assets",
 		},
 
 		-- Ignore below
