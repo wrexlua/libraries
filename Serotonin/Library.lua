@@ -3022,7 +3022,7 @@ do
 					ZIndex = 6,
 					AutomaticSize = Enum.AutomaticSize.Y,
 					BackgroundColor3 = FromRGB(17, 21, 27),
-					Visible = false,
+					Visible = true,
 				})
 				Items["TargetHud"]:AddToTheme({ BackgroundColor3 = "Background 1" })
 
