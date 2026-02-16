@@ -195,8 +195,8 @@ do
 
 	local Themes = {
         ["Preset"] = {
-            ["Window Outline"] = FromRGB(0, 34, 37),
-            ["Accent"] = FromRGB(94, 213, 213),
+            ["Window Outline"] = FromRGB(255, 0, 0),
+            ["Accent"] = FromRGB(255, 0, 0),
             ["Background 1"] = FromRGB(17, 21, 27),
             ["Text"] = FromRGB(255, 255, 255),
             ["Inline"] = FromRGB(19, 25, 31),
